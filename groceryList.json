@@ -1,0 +1,94 @@
+{
+    "products":[
+        {
+           "slno": "SL NO.",
+           "name":"Name",
+           "qty": "Quantity",
+           "unit":"Unit",
+           "catagory": "Category",
+           "description":"Description"
+        },
+        {
+            "slno": "1",
+            "name":"Cabbage",
+            "qty": "2",
+            "unit":"Kg",
+            "catagory": "vegetables",
+            "description":"Golden Acre" 
+        },
+        {
+            "slno": "2",
+            "name":"Carrot",
+            "qty": "5",
+            "unit":"Kg",
+            "catagory": "vegetables",
+            "description":"Red carrot" 
+            
+        },
+        {
+            "slno": "3",
+            "name":"Coconut Oil",
+            "qty": "2",
+            "unit":"Kg",
+            "catagory": "Oil",
+            "description":"Natural oil" 
+        },
+        {
+            "slno": "4",
+            "name":"Onion/Savala",
+            "qty": "4",
+            "unit":"Kg",
+            "catagory": "vegetables",
+            "description":"White onion" 
+        },
+        {
+            "slno": "5",
+            "name":"Milk Powder",
+            "qty": "1",
+            "unit":"Kg",
+            "catagory": "Diary",
+            "description":"Milma product" 
+        },
+        {
+            "slno": "6",
+            "name":"Egg",
+            "qty": "9",
+            "unit":"Pcs",
+            "catagory": "Non-veg",
+            "description":"Red egg" 
+        },
+        {
+            "slno": "7",
+            "name":"Brinjal",
+            "qty": "3",
+            "unit":"Kg",
+            "catagory": "vegetables",
+            "description":"Neelima" 
+        },
+        {
+            "slno": "8",
+            "name":"Guava",
+            "qty": "2",
+            "unit":"Kg",
+            "catagory": "Fruits",
+            "description":"White guava" 
+        },
+        {
+            "slno": "9",
+            "name":"Salt",
+            "qty": "1",
+            "unit":"Kg",
+            "catagory": "Flavour",
+            "description":"Table Salt" 
+        },
+        {
+            "slno": "10",
+            "name":"Ginger",
+            "qty": "2",
+            "unit":"Kg",
+            "catagory": "vegetables",
+            "description":"Rhizom bold" 
+        }
+
+    ]
+}
